@@ -27,7 +27,7 @@ div {
     font-size: 1.25rem;
     font-family: 'Crimson Text', sans-serif;
     font-style: italic;
-    margin-top: 3rem;
+    margin-top: 2rem;
 }
 
 @media (max-width: 1200px) {
